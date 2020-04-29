@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learnToCode/static/css/main.f9aff6ce.chunk.css",
+    "main.js": "/learnToCode/static/js/main.24d5a0a9.chunk.js",
+    "main.js.map": "/learnToCode/static/js/main.24d5a0a9.chunk.js.map",
+    "runtime-main.js": "/learnToCode/static/js/runtime-main.e261cdd1.js",
+    "runtime-main.js.map": "/learnToCode/static/js/runtime-main.e261cdd1.js.map",
+    "static/js/2.38e86a2a.chunk.js": "/learnToCode/static/js/2.38e86a2a.chunk.js",
+    "static/js/2.38e86a2a.chunk.js.map": "/learnToCode/static/js/2.38e86a2a.chunk.js.map",
+    "index.html": "/learnToCode/index.html",
+    "precache-manifest.3a6baa0a2ccccb8a4529e04673aae01f.js": "/learnToCode/precache-manifest.3a6baa0a2ccccb8a4529e04673aae01f.js",
+    "service-worker.js": "/learnToCode/service-worker.js",
+    "static/css/main.f9aff6ce.chunk.css.map": "/learnToCode/static/css/main.f9aff6ce.chunk.css.map",
+    "static/js/2.38e86a2a.chunk.js.LICENSE.txt": "/learnToCode/static/js/2.38e86a2a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/learnToCode/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e261cdd1.js",
+    "static/js/2.38e86a2a.chunk.js",
+    "static/css/main.f9aff6ce.chunk.css",
+    "static/js/main.24d5a0a9.chunk.js"
+  ]
+}
